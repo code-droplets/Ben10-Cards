@@ -49,6 +49,7 @@ body{
     padding: 10px 0px;
     color: #C6E115;
     font-family: 'Russo One', sans-serif;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
     
 }
 .content p{
@@ -83,6 +84,7 @@ body{
         justify-content: center;
         align-items: center;
         height: min-content;
+        width: 90%;
     }
     .cards img{
         position: relative;
